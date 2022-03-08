@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'es';
+  testo:string = "ciao";
+  lista:string[]=[ 'Banane' , 'lamponi' , 'latte' , 'sale'  ]
+
 }
